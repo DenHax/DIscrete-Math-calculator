@@ -1,0 +1,25 @@
+body {
+	color: #f80c0c;
+	font: 24px Tahoma, sans-serif;
+	background-color: #0f1655;
+	border-top: 5px solid #928e8e;
+	margin: 0;
+}
+input[type="text"] {
+	background-color: #cc8383;
+	border: 1px solid #e01919;
+	height: 30px;
+	color: #b2b2b2;
+	padding: 0 10px;
+	vertical-align: top;
+}
+button {
+	color: #221010;
+	background-color: #29c5e6;
+	border: none;
+	height: 32px;
+	font-family: 'Oswald', sans-serif;
+}
+p {
+	margin: 20px 0;
+}
